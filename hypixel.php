@@ -2,7 +2,7 @@
     require_once 'HypixelPHP.php'; /* Hypixel PHP Location */
     use HypixelPHP\HypixelPHP;
     $options = [
-        'api_key'    => '210fcafc-b026-4c45-988c-b598658319fb',
+        'api_key'    => '#########-####-####-####-############',
         'cache_time' => 600,
         'timeout'    => 2,
         'logging'    => false,
