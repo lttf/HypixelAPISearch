@@ -27,7 +27,6 @@
       <ul class="nav navbar-nav">
         <li><a href="index.php">Home</a></li>
         <li class="active"><a href="search.php">Statistics Viewer</a></li>
-        <li><a href="kitsearch.php">Class Viewer</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#about"></a></li>
