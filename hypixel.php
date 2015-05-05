@@ -1,5 +1,5 @@
 <?php
-    require_once 'includes/HypixelPHP.php';
+    require_once 'HypixelPHP.php'; /* Hypixel PHP Location */
     use HypixelPHP\HypixelPHP;
     $options = [
         'api_key'    => '210fcafc-b026-4c45-988c-b598658319fb',
