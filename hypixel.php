@@ -167,9 +167,7 @@
     <h1>Search Results</h1>
     <p class="lead">Here are your results, make sure to add them to your secret diary!<br>
           <?php
-      echo '<h3>Player: ' . $displayName . '</h3>';
-          ?>
-          <?php
+      echo '<h3>Player: ' . $displayName . '</h3><br>';
       echo '<img src="https://mcapi.ca/avatar/3d/'.$usernames.'/70">';
       ?>
   </div>
@@ -186,8 +184,7 @@
             echo '</br><b>Multiplier:</b> '.$multiplier.'x';
             echo '</br><b>Achievement Points:</b> WIP';
             echo '</br><b>Guild:</b> WIP';
-            echo '</br>'.$statusHypixel;
-            echo '</p>'; // Close the p-tag.
+            echo '</p>';
     ?>
         </div>
       </div>
